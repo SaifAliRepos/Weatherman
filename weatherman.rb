@@ -89,8 +89,7 @@ puts " "
 
 
 
-
-
+#Failed attempts
 
 =begin
 max_tempreture.each_with_index{
