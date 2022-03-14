@@ -86,30 +86,3 @@ end
 print " #{x}C  #{min_tempreture[i]}C"
 puts " "
 }
-
-
-
-#Failed attempts
-
-=begin
-max_tempreture.each_with_index{
-
-  |x, i| puts "Temp #{i}:"
-
-  for x in max_tempreture do
-    print "a"
-  end
-}
-=end
-
-#max_tempreture.delete('Max TemperatureC')
-
-#max_tempreture = max_temp.compact()
-
-=begin
-for i in 2..33 do
-  print "On #{date[i]} >> "
-  max_tempreture.each{|x| puts "#{x}"}
-  puts ""
-end
-=end
